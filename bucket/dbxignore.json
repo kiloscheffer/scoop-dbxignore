@@ -1,17 +1,17 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Hierarchical .dropboxignore files for Dropbox. Writes ignore markers via NTFS ADS on Windows and xattrs on Linux/macOS.",
     "homepage": "https://github.com/kiloscheffer/dbxignore",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/kiloscheffer/dbxignore/releases/download/v1.0.0/dbxignore.exe",
-                "https://github.com/kiloscheffer/dbxignore/releases/download/v1.0.0/dbxignorew.exe"
+                "https://github.com/kiloscheffer/dbxignore/releases/download/v1.0.2/dbxignore.exe",
+                "https://github.com/kiloscheffer/dbxignore/releases/download/v1.0.2/dbxignorew.exe"
             ],
             "hash": [
-                "35065fc32354f9288490a1939f969a21ebf8b57196852f100ac8bebbf272898c",
-                "c7b5b34e54fc34261ed548a490312ddc899ecae6f70deee947b3715b4500254b"
+                "09543b309dcd2a0c8fce842a2e7075f8b645ff8eba32ccf05aad2ce79912f588",
+                "c2b1eab5943a8f01f773aa9f3ac12b72876738ec9b3ce87e63d91ef7f19b8cf6"
             ]
         }
     },
